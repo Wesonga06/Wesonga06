@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Wesonga06">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Wesonga" alt="Hello! I&#39;m Wesonga" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Wesonga" alt="Hello! I&#39;m Wesonga" />
   </a>
 </p>
 
@@ -11,6 +11,11 @@
 ### 🚀 About Me
 
 Just a developer having dun with coding
+
+🔭 &nbsp;I'm currently working on **A modern tenant management system built with Laravel, Blade, MySQL, MPesa Daraja API, and Twilio.**  
+🌱 &nbsp;I'm currently learning **Python code**  
+😄 &nbsp;Pronouns: **she/her**  
+💬 &nbsp;Ask me about **UX/UI**
 
 ### 🛠️ Tech Stack
 
@@ -42,17 +47,23 @@ Just a developer having dun with coding
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/@exotic_wesonga._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Wesonga06&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Wesonga06&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Wesonga06&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Wesonga06&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Wesonga06&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Wesonga06&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
